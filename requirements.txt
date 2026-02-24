@@ -1,0 +1,4 @@
+soccerdata
+numpy
+scipy
+scikit-learn
